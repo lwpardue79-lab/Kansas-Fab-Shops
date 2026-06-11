@@ -1,0 +1,16 @@
+shop_id,company_name,location,company_size,specialization
+1,Shawnee Steel & Welding,"Merriam, KS",Unknown / likely midsize,Structural steel; bridge railings; industrial steel; AESS
+2,HME Inc / Haas Metal Engineering,"Topeka / Perry, KS",Large,Structural steel; custom metal fabrication; steel erection
+3,PTMW Inc,"Topeka / Manhattan, KS",Large,OEM metal enclosures; steel and aluminum enclosures; equipment manufacturing
+4,Unique Metal Fabrications Inc,"Pittsburg, KS",Small,Structural steel; cutting; bending; forming; punching; welding
+5,Specialty Fabrication Inc,"Wichita, KS",Small,Steel fabrication; stainless steel; alloy fabrication
+6,Universal Machining & Sheet Metal Inc,"Wichita, KS",Small,Machining; sheet metal; forming; aerospace work
+7,H & R Parts Co Inc,"Wichita, KS",Small,Welding; forming; rolling; plasma cutting; CNC machining
+8,South Industrial Sheet Metal Co,"Salina, KS",Small,Sheet metal; welding; laser cutting; CAD design; installation
+9,Kemlee Mfg Inc,"Galena, KS",Small,Custom metal fabrication; manufacturing
+10,PCI Metals,"Lenexa, KS",Unknown,Light and heavy gauge metal fabrication; laser cutting; forming; welding
+11,TSC Specialty Metals,"Lenexa, KS",Unknown / likely small,Custom commercial metal fabrication; stainless steel; carbon steel; aluminum
+12,Metal One,Overland Park / Kansas City area,Unknown / likely small,Custom; residential; commercial metal fabrication; waterjet
+13,Town & Country Sheet Metal,"Shawnee, KS",Unknown / likely small,Guttering; custom metal fabrication; sheet metal
+14,Temp-Con Sheet Metal Fabrication,Kansas City area,Unknown / likely midsize,HVAC ductwork; fittings; custom sheet metal; forming; bending; welding
+15,Gieske Custom Metal Fabricators,Kansas City area,Unknown / likely small,Custom commercial and residential metal fabrication; ventilation; decorative metal
