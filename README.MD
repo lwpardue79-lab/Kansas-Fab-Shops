@@ -26,5 +26,13 @@ This project includes queries that:
 - Rank shop locations by count
 - Rank specializations by frequency
 
+## Project Screenshots
+
+- Supabase table results: `supabase_results.png`
+- Company size query: `company_size_query.png`
+- Company location query: `company_location_query.png`
+- Specialization count query: `specialization_count_query.png`
+- Structural steel query: `structural_steel_query.png`
+
 ## Project Summary
 I built this project to practice SQL, data organization, and database analysis using a real-world industry related to metal fabrication and manufacturing.
